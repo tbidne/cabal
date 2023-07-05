@@ -15,6 +15,7 @@ on:
   push:
     branches:
       - master
+      - double-dir
   pull_request:
   release:
     types:
